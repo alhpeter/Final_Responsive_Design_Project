@@ -110,8 +110,9 @@ figcaption {
         background-color: black;
         color: #f0e68c;
     }
+  
+    footer a {
+        color: white;
+    }
 }
 
-footer a {
-    color: white;
-}
