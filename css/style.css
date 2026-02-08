@@ -20,9 +20,6 @@ p {
     margin-bottom: 15px;
 }
 
-/* MOBILE VIEW (default, no media query) */
-/* 1 column grid with 10px gap */
-
 .grid {
     display: grid;
     grid-template-columns: 1fr;
@@ -54,7 +51,6 @@ figcaption {
     font-size: 18px;
 }
 
-/* TABLET VIEW */
 @media screen and (min-width: 772px) {
 
     .grid {
@@ -74,7 +70,6 @@ figcaption {
     }
 }
 
-/* LARGE SCREEN VIEW */
 @media screen and (min-width: 992px) {
 
     .grid figure:nth-child(3n) {
@@ -90,7 +85,6 @@ figcaption {
     }
 }
 
-/* REDUCED MOTION */
 @media (prefers-reduced-motion: reduce) {
 
     html {
@@ -100,7 +94,6 @@ figcaption {
     }
 }
 
-/* DARK MODE */
 @media (prefers-color-scheme: dark) {
 
     body {
