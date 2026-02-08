@@ -2,7 +2,7 @@
 
 Welcome! This repository contains the code for my **Responsive Photo Gallery Project**. You can also view the live website here:
 
-👉👉👉 [Live Website](https://alhpeter.github.io/Final_Responsive_Design_Project/) 👈👈👈  
+👉👉👉 https://alhpeter.github.io/Final_Responsive_Design_Project/ 👈👈👈  
 
 Please click the link above to experience the actual site in action.
 
