@@ -16,7 +16,7 @@ Please click the link above to experience the actual site in action.
 - If you are **seeing the scroll animation still working**, this is **not a code error** — it simply means your system currently has animations enabled.  
 - To test the reduced-motion functionality:
   - **macOS / iOS**: System Settings → Accessibility → Display → Turn on **Reduce Motion**  
-  - **Windows**: Settings → Accessibility → Visual Effects → Turn off **Show animations in Windows**  
+  - **Windows**: Settings → Accessibility → Visual Effects → Turn off **Animation Effects**  
 - After testing, you can turn animations back on normally.  
 
 ---
